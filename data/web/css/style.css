@@ -59,6 +59,18 @@ body {
     padding: 1em 10%;
 }
 
+body>p, 
+body>h1, 
+body>h2, 
+body>h3 {
+
+margin-left: 1.5em;
+margin-right: 1.5em;
+padding-left: 0.5em;
+padding-right: 0.5em;
+
+}
+
 details {
     display: block
 }
