@@ -89,7 +89,7 @@ You are expected to learn how the system you decide to use works.
 ## Exercises
 
 
-### The Small Web
+### The Small Web  [![Netlify Status](https://api.netlify.com/api/v1/badges/3678f789-19c3-4f08-9d36-c2ed4fdb1e0e/deploy-status)](https://app.netlify.com/sites/smallweb-f23/deploys)
 We will build a small web, which will be published at [smallweb-f23.netlify.app](https://smallweb-f23.netlify.app/)
 
 #### Exercise:
