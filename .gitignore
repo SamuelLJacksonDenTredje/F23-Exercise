@@ -34,3 +34,5 @@ node_modules
 
 **/.Rapp.history
 .Rapp.history
+
+**/*/data
